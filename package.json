@@ -1,0 +1,25 @@
+{
+  "name": "async-playground",
+  "version": "1.0.0",
+  "description": "JavaScript Async experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johndaley-me/async-playground.git"
+  },
+  "keywords": [
+    "async"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johndaley-me/async-playground/issues"
+  },
+  "homepage": "https://github.com/johndaley-me/async-playground#readme",
+  "dependencies": {
+    "async": "^2.5.0"
+  }
+}
